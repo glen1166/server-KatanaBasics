@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KatanaBasics", "KatanaBasic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinHostSample", "OwinHostSample\OwinHostSample.csproj", "{061AA2B6-347D-4068-BCED-9CC757D14DB1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHostSample", "CustomHostSample\CustomHostSample.csproj", "{E5BB3ECE-2869-44DE-B769-61596CA67290}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{061AA2B6-347D-4068-BCED-9CC757D14DB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{061AA2B6-347D-4068-BCED-9CC757D14DB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{061AA2B6-347D-4068-BCED-9CC757D14DB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
