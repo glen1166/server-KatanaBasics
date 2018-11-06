@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinHostSample", "OwinHostS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomHostSample", "CustomHostSample\CustomHostSample.csproj", "{E5BB3ECE-2869-44DE-B769-61596CA67290}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwinMiddleWare", "OwinMiddleWare\OwinMiddleWare.csproj", "{4D465905-3846-4D8D-BBA9-DB98313F10D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5BB3ECE-2869-44DE-B769-61596CA67290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D465905-3846-4D8D-BBA9-DB98313F10D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D465905-3846-4D8D-BBA9-DB98313F10D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D465905-3846-4D8D-BBA9-DB98313F10D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D465905-3846-4D8D-BBA9-DB98313F10D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
